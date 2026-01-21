@@ -1,4 +1,5 @@
-College Event Management System (CEMS)
+College Event Management System (CEMS).
+
 A web-based application designed to manage college events, student registrations, and coordination tasks. This system provides different interfaces for administrators, staff, and students to ensure smooth event planning and execution.
 
 🚀 Features
